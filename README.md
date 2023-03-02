@@ -90,6 +90,9 @@ $ cd Hello-rails-frontend
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Backend repository
+- [link](https://github.com/UsirusenIkon/Hello-rails-back-end.git)
+
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
